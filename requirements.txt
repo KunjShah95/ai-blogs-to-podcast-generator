@@ -1,0 +1,8 @@
+streamlit>=1.28.0
+# agno is required for Agent, OpenAIChat, and tools
+agno>=0.1.0
+# If you use ElevenLabs or Firecrawl directly, add their packages if needed
+# elevenlabs>=0.2.26
+# firecrawl (add if agno does not bundle it)
+# If you use numpy or other packages elsewhere, add as needed
+
